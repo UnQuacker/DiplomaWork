@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameData" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DataSaving\Data\GameData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameSettings" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAADQAAAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\Scripts\DataSaving\Data\GameSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teacher" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Scripts\DataSaving\Data\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataPresistanceManager" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACABAAAIIQCIACAAAAAQAAJABAAAAIAEgQIAgADEE=</HashCode>
+      <FileName>Assets\Scripts\DataSaving\DataPresistanceManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileDataHandler" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAIIAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DataSaving\FileDataHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeaderboardListing" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LoginMenu\LeaderboardListing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAgAgCAIAgAAAABEAIIgQgAACADBAIAAAAAgBQ=</HashCode>
+      <FileName>Assets\Scripts\LoginMenu\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PanelsController" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAKICAAACAigIBgCEAAIkwBAUABAAFBFRABAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\LoginMenu\PanelsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RegisterTest" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAQAEACCAAACAAAAAAEAQAAAAAAAAAAAQAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\LoginMenu\RegisterTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DialoguePanelBasket" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIADgACAUAIAAAAAAAKAQAEAEAAAAIEAAQAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainGame\DialoguePanelBasket.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DialoguePanelFaultyRobot" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIADgACAUAIAAAAAAAKAQAEAEAAAAIEAAQAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainGame\DialoguePanelFaultyRobot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DialoguePanelNumberJumble" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIADgACAUAIAAAAAAAKAQAEAEAAAAIEAAQAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainGame\DialoguePanelNumberJumble.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DisableWall" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainGame\DisableWall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveToNextStage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAQAgAAAAAAAAAQAEAAACBAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainGame\MoveToNextStage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FruitBehaviour" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MinigameScripts\BasketScripts\FruitBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoBack" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MinigameScripts\BasketScripts\GoBack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinigameBasketMovement" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAIqIUEIQAACAACIAQEEAAAAEIAAAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\MinigameScripts\BasketScripts\MinigameBasketMovement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ObjectSpawnerScript" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAgAABIACAABIAAAAAAAAAAAAgAAAAAAAAQABCAAAA=</HashCode>
+      <FileName>Assets\Scripts\MinigameScripts\BasketScripts\ObjectSpawnerScript.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DetectWining" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAAIQAIQAAgAACIAQEAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MinigameScripts\FaultyRobotScrips\DetectWining.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PlayerMover" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAJBACAAQIAAAAAAAAAEAAAEAbwBAABpAAEAAgA=</HashCode>
+      <FileName>Assets\Scripts\MinigameScripts\FaultyRobotScrips\PlayerMover.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Reset" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MinigameScripts\FaultyRobotScrips\Reset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColourButton" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAQAAAAAAAAABAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MinigameScripts\NumberJumbleScripts\ColourButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColourMixer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAACBAAAIRAIQQAAAACZQQEAQAAACAAQIQAKCAIAA=</HashCode>
+      <FileName>Assets\Scripts\MinigameScripts\NumberJumbleScripts\ColourMixer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MoveToMinigame" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAEAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MoveToMinigame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMovement" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAIgAUAAACAAAgAIAQAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerMovement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PlayGame" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IDataPersistence" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DataSaving\Data\IDataPersistence.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ISettingsPresistance" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DataSaving\Data\ISettingsPresistance.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
